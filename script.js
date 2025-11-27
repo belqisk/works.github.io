@@ -355,7 +355,7 @@ for (let i = 0; i < images.length; i++) {
     const wechatIcon = document.getElementById('wechat-icon');
     wechatIcon.addEventListener('click', (e) => {
         e.preventDefault();
-        alert('WeChat ID: wxid_jtzy15ikdduq12');
+        alert('WeChat ID: Wxiayw028');
         // 或者你可以在这里添加显示二维码的逻辑
     });
 
